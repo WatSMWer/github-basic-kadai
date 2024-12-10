@@ -1,0 +1,8 @@
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git init
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git add hello_world.txt
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git commit -m "最初のコミット”
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git add hello_world.txt
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git commit -m "「こんにちは、世界を追加」"
+PS C:\Users\oosui\OneDrive\デスクトップ\lesson\git_challenge> git log --oneline
+0158c9e (HEAD -> main) 「こんにちは、世界を追加」
+f42dfc6 最初のコミット
